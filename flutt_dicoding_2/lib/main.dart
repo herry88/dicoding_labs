@@ -5,7 +5,7 @@ void main() {
   runApp(MyApp());
 }
 
-//Latihan Kedua
+//Latihan Kedua saya
 
 class MyApp extends StatelessWidget {
   @override
